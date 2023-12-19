@@ -1,1 +1,3 @@
 Flask==3.0.0
+include mediapipe as mp
+include numpy as np
